@@ -1,3 +1,6 @@
-Introductory Machine Learning Project- Predicting Room Occupancy
+**Room-Occupancy-Classification**
+Used R to evaluate multi-dimensional data and predict room occupancy status.
 
-Summer 2025 CMU 36-202 Project
+Used LDA, QDA, classification trees, and Binary Logistic Regression to prevent overfitting data.
+
+Isolated CO2 to optimize the model to get a low misclassification rate. 
